@@ -6,4 +6,4 @@ This repository is the home for the Berry Pickers team at NEAR. There are a few 
 - The [Kanban board of upcoming tasks](https://github.com/orgs/near/projects/10)
 - The **Projects** tab in Github, listed in the horizontal tabs at the top. (Items may also be included in the Kanban board above.)
 - The Berry Pickers [channel on Discord](https://discord.gg/xsDCMXacdX)
-- Weekly [Github Discussion updates](https://github.com/near/community/discussions) on priorities, progress, etc.
+- Weekly [Github Discussion updates](https://github.com/near/community/discussions/categories/berry-pickers) on priorities, progress, etc.
